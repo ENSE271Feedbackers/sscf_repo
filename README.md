@@ -4,6 +4,6 @@ Associated project with South Saskatchewan Community Foundation (SSCF) and Luthe
 ---
 
 ***Team Members***
-- Bilal ==Alissa==
+- Bilal Alissa
 - Omar Alabssi
 - Tolani Oke-Steve
