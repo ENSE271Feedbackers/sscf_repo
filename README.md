@@ -38,7 +38,7 @@
 
 
 ---
-***Activities***
+***Activities and Files***
 - Activity-1-Files:
   - [Empathy Mapping](https://github.com/ENSE271Feedbackers/sscf_repo/blob/main/Documents/activity_1/EmpathyMapping.png)
   - Affinity Diagram
