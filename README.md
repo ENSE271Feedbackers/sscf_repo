@@ -40,9 +40,14 @@
 ---
 ***Activities and Files***
 - Activity-1:
-  - [Empathy Mapping](https://github.com/ENSE271Feedbackers/sscf_repo/blob/main/Documents/activity_1/EmpathyMapping.png)
-  - Affinity Diagram
-  - Story map
+  - [Empathy Mapping - link](https://github.com/ENSE271Feedbackers/sscf_repo/blob/main/Documents/activity_1/EmpathyMapping.png)
+  - Affinity Diagram:
+    |Title |	Need (What) |	Insight (Why) |
+    | ----------- | ----------- | ----------- |
+    | Presenting data, stories, and information | Interactive data show, visual data overview, and impact stories | Donors, volunteers, charity communities, and community members need a clear showcase about community issues and what are the possible/available solutions, and the outcome of their efforts. |
+    | Searching and filtering | Easy way to discover information based on two categories: focus area, and region | Helps researchers and interested stakeholders about specific information. |
+    | Adding and managing data | Practical way to manage data | Helps staff to add or edit database. |    
+  - [Story map - link](https://landofooo.storiesonboard.com/m/pIPTsFeJ8EKCuCg1DhlKdQ)
   - Insights/needs chart/document
 
 
