@@ -1,5 +1,5 @@
-# sscf
-`Associated project with South Saskatchewan Community Foundation (SSCF) and Luther College University of Regina`
+# SSCF (Vital Signs) Project
+`Associated project with South Saskatchewan Community Foundation (SSCF) and o	Nonprofit and Voluntary Sector Studies Network, Luther College (NVSSN)`
 
 ---
 
@@ -35,6 +35,15 @@
 - lack of WordPress experience 
 - lack of web developing experience 
 - communication with costumer
+
+
+---
+***Activities***
+- Activity-1-Files:
+  - [Empathy Mapping](https://github.com/ENSE271Feedbackers/sscf_repo/blob/main/Documents/activity_1/EmpathyMapping.png)
+  - Affinity Diagram
+  - Story map
+  - Insights/needs chart/document
 
 
 ---
