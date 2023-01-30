@@ -48,7 +48,7 @@
     | Searching and filtering forms | Easy way to discover information based on two categories: focus area, and region | Helps researchers and interested stakeholders about specific information. |
     | Adding and managing data forms | Practical way to manage data | Helps staff to add or edit database. |    
   - [Story map - link](https://landofooo.storiesonboard.com/m/pIPTsFeJ8EKCuCg1DhlKdQ)
-  - Insights/needs chart/document
+  - ~~Insights/needs chart/document~~
 
 
 ---
