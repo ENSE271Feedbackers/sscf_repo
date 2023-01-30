@@ -1,5 +1,5 @@
 # SSCF Project
-`(Vital Signs) is an associated project with South Saskatchewan Community Foundation (SSCF) and o	Nonprofit and Voluntary Sector Studies Network, Luther College (NVSSN)`
+`(Vital Signs) is an associated project with South Saskatchewan Community Foundation (SSCF) and Nonprofit and Voluntary Sector Studies Network, Luther College (NVSSN)`
 
 ---
 
