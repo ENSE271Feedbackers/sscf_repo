@@ -12,7 +12,7 @@
 
 ***Northstar & carryover customers***
 - NorthStar (target) customer:
-  - Community Impact & Communication, SSCF
+  - South Saskatchewan Community Foundation, SSCF
   - Nonprofit and Voluntary Sector Studies Network, Luther College (NVSSN)
 - Carryover customers: future projects, and related organizations and foundations.
 
