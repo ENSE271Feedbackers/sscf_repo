@@ -42,15 +42,21 @@
 ***Activities and Files***
 - Activity-1:
   - [Empathy Mapping - link](https://github.com/ENSE271Feedbackers/sscf_repo/blob/main/Documents/activity_1/EmpathyMapping.png)
-  - Affinity Diagram:
+  - [Story Map - link (PDF)](https://github.com/ENSE271Feedbackers/sscf_repo/blob/main/Documents/activity_1/Ense_271feedbackers_sscfnvssn.pdf)
+  - Affinity Diagram / insights / needs :
     |Title |	Need (What) |	Insight (Why) |
     | ----------- | ----------- | ----------- |
     | Presenting data, stories, and information | Interactive data show, visual data overview, and impact stories | Donors, volunteers, charity communities, and community members need a clear showcase about community issues and what are the possible/available solutions, and the outcome of their efforts. |
     | Searching and filtering forms | Easy way to discover information based on two categories: focus area, and region | Helps researchers and interested stakeholders about specific information. |
     | Adding and managing data forms | Practical way to manage data | Helps staff to add or edit database. |    
-  - [Story map - link](https://landofooo.storiesonboard.com/m/pIPTsFeJ8EKCuCg1DhlKdQ)
-  - ~~Insights/needs chart/document~~
-
+  - Summarized customer notes from scheduled customer/team check-ins:
+    - single or limited pages website.
+    - financial transactions will be handeled by staff on other website.
+    - confirmed ideas:
+      - contact form
+      - email list
+      - staff will handle updates manually (negotiable)
+      - visual effects (appearance, donor contributions)
 
 ---
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
