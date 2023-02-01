@@ -35,6 +35,7 @@
 - lack of WordPress experience 
 - lack of web developing experience 
 - communication with costumer
+- time limitatin
 
 
 ---
