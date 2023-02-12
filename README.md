@@ -39,9 +39,12 @@
 
 
 ---
-***Activities and Files***
-- Activity-1:
-  - [Empathy Mapping - link (image with kind of high res.)](https://github.com/ENSE271Feedbackers/sscf_repo/blob/bilal_work/Documents/User-Observations/activity_1/EmpathyMapping.png)
+### ***Activities and Files***
+
+`these activities were assigned by Dr. Timothy Maciag, during the term of Winter 2023 as a part of the project to pass ENSE 271 class`
+
+#### - Activity-1:
+  - [Empathy Mapping - link ](https://github.com/ENSE271Feedbackers/sscf_repo/blob/bilal_work/Documents/User-Observations/activity_1/EmpathyMapping.png)
   - [Story Map - link ](https://landofooo.storiesonboard.com/m/pIPTsFeJ8EKCuCg1DhlKdQ)
   - Affinity Diagram / insights / needs :
     |Title |	Need (What) |	Insight (Why) |
