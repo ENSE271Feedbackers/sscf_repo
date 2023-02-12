@@ -41,7 +41,7 @@
 ---
 ***Activities and Files***
 - Activity-1:
-  - [Empathy Mapping - link (image with kind of high res.)](https://github.com/ENSE271Feedbackers/sscf_repo/blob/bilal_work/Documents/activity_1/EmpathyMapping.png)
+  - [Empathy Mapping - link (image with kind of high res.)](https://github.com/ENSE271Feedbackers/sscf_repo/blob/bilal_work/Documents/User-Observations/activity_1/EmpathyMapping.png)
   - [Story Map - link ](https://landofooo.storiesonboard.com/m/pIPTsFeJ8EKCuCg1DhlKdQ)
   - Affinity Diagram / insights / needs :
     |Title |	Need (What) |	Insight (Why) |
