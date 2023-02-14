@@ -60,6 +60,15 @@
       - email list
       - staff will handle updates manually (negotiable)
       - visual effects (appearance, donor contributions)
+      
+ #### - Activity-2:
+ - [site maps & Low-Fidelity prototypes](https://github.com/ENSE271Feedbackers/sscf_repo/blob/main/Related-Documents/Activity-2_siteMap_lofi.pdf) 
+   - [lo-fi prototype document](https://github.com/ENSE271Feedbackers/sscf_repo/blob/main/Related-Documents/lo-fi_prototypes/lofiDoc.pdf)
+ - User Story Map USM
+    - [link](https://landofooo.storiesonboard.com/m/pIPTsFeJ8EKCuCg1DhlKdQ)
+    - [pdf](https://github.com/ENSE271Feedbackers/sscf_repo/blob/main/Related-Documents/UserStoryMaps/02_Ense_271feedbackers_sscfnvssn.pdf)
+ - Summarized customer notes from customer check-ins
+    - [file link](https://github.com/ENSE271Feedbackers/sscf_repo/blob/main/Related-Documents/CustomerNotes/CutomerNotes_AfterActivity_2.md)
 
 ---
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
