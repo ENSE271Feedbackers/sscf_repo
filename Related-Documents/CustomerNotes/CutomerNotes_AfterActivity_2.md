@@ -1,6 +1,6 @@
 # Activity 2
 
-## Notes from out customer regarding the lo-fi prototyping of the website design
+## Notes from our customer regarding the lo-fi prototyping of the website design
 
 ### ***Focus on the following points:***
 - main page (landing page)
