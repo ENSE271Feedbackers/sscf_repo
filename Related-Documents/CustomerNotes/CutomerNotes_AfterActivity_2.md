@@ -12,3 +12,4 @@
 
 ### ***Not to worry about:***
 - current events and news. That is something out of the scope.
+- Donation page as they already have one so making a new one isn't intuitive.
