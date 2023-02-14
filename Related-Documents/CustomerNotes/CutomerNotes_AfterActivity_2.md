@@ -9,6 +9,7 @@
 - adding stories and infographics.
 - the possibility of exporting infographics and insights.
 - searching and filtering. No more than 2 or 3 geographic regions are available right now with their information. That to be used in the map.
+- make filter button more visible and clear to user
 
 ### ***Not to worry about:***
 - current events and news. That is something out of the scope.
