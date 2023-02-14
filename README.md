@@ -41,7 +41,7 @@
 ---
 ### ***Activities and Files***
 
-`these activities were assigned by Dr. Timothy Maciag, during the term of Winter 2023 as a part of the project to pass ENSE 271 class`
+`these activities were assigned by Dr. Timothy Maciag (supervisor), during the term of Winter 2023 as a part of the project to pass ENSE 271 class`
 
 #### - Activity-1:
   - [Empathy Mapping - link ](https://github.com/ENSE271Feedbackers/sscf_repo/blob/bilal_work/Documents/User-Observations/activity_1/EmpathyMapping.png)
