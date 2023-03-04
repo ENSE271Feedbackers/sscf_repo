@@ -69,6 +69,21 @@
     - [pdf](https://github.com/ENSE271Feedbackers/sscf_repo/blob/main/Project-Requirements/UserStoryMaps/02_Ense_271feedbackers_sscfnvssn.pdf)
  - Summarized customer notes from customer check-ins
     - [file link](https://github.com/ENSE271Feedbackers/sscf_repo/blob/main/Project-Requirements/CustomerNotes/CutomerNotes_AfterActivity_2.md)
+    
+#### - Activity-3:
+- Hi-Fi Ptototype files:
+  - [Figma version](https://github.com/ENSE271Feedbackers/sscf_repo/blob/main/Project-Requirements/HFP/SSCF-Feedbackers-HiFi-Final.fig)
+  - [PDF version](https://github.com/ENSE271Feedbackers/sscf_repo/blob/main/Project-Requirements/HFP/SSCF-Feedbackers-HiFi-Final.pdf)
+  - [Design ideas](https://github.com/ENSE271Feedbackers/sscf_repo/blob/main/Project-Requirements/HFP/ENSE_271_FEEDBACKERS_design_ideas_in_relation_to_topics_in_class_1-1.pdf)
+- Usability questionnaire files:
+  - [file](https://github.com/ENSE271Feedbackers/sscf_repo/blob/main/Project-Requirements/Questionnaire/Questionnaire_Ense_271_FeedBackers.docx)
+- Yanky-ish swap team usability discussion:
+  - [file](https://github.com/ENSE271Feedbackers/sscf_repo/blob/main/Project-Requirements/Yanky-ishTest/Other%20team%20members%20notes%20collected%20by%20our%20team.txt)  
+- Customer notes:
+  - [file](https://github.com/ENSE271Feedbackers/sscf_repo/blob/main/Project-Requirements/CustomerNotes/CustomerNotes-Activity-3.txt)
+- User Story Map (USM):
+  - [link](https://landofooo.storiesonboard.com/m/nDeU9h9LNEmC8UNKCjILCQ)
+  - [pdf](https://github.com/ENSE271Feedbackers/sscf_repo/blob/main/Project-Requirements/UserStoryMaps/03_Ense_271feedbackers_sscfnvssn-1.pdf)  
 
 ---
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
