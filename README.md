@@ -86,9 +86,11 @@
   - [pdf](https://github.com/ENSE271Feedbackers/sscf_repo/blob/main/Project-Requirements/UserStoryMaps/03_Ense_271feedbackers_sscfnvssn-1.pdf)  
 
 #### - Activity-4 (final): <== Thu. Apr-6-2023
-- [Customer notes - link](https://github.com/ENSE271Feedbackers/sscf_repo/blob/main/Project-Requirements/CustomerNotes/customer_Notes_Activity_4.txt)
-- [WordPress backup - OneDrivelink](https://1drv.ms/u/s!AkB9j6SPvV35qKl4g5T1uqUzYWTdxA?e=b0Tol7)
-- [Project report/reflection - link](https://github.com/ENSE271Feedbackers/sscf_repo/blob/main/Project-Requirements/projectReport/ENSE_271_Project_Reflection.pdf)
+- Customer notes - [link](https://github.com/ENSE271Feedbackers/sscf_repo/blob/main/Project-Requirements/CustomerNotes/customer_Notes_Activity_4.txt)
+- WordPress backup - [OneDrive_link](https://1drv.ms/u/s!AkB9j6SPvV35qKl4g5T1uqUzYWTdxA?e=b0Tol7)
+- Project report and reflection:
+  - Project reflection - [link](https://github.com/ENSE271Feedbackers/sscf_repo/blob/main/Project-Requirements/projectReport/ENSE_271_Project_Reflection.pdf)
+  - Project report - [link](https://github.com/ENSE271Feedbackers/sscf_repo/blob/main/Project-Requirements/projectReport/ENSE_271_Project_Report.pdf)
 
 ---
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
