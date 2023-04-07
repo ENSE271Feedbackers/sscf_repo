@@ -1,0 +1,6 @@
+customer Notes Activity 4
+
+
+-On the search by area, a little bit too much information is provided, which could overload the user.
+-Adding more longform content to the design that is accessible from the impact stories and infographics will be beneficial.
+-Strategic placement of the search options on the UI is necessary to improve user experience.
